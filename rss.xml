@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>LiveMCQ Blog</title>
+    <link>https://sites.google.com/view/livemcq/blog</link>
+    <description>Latest articles from LiveMCQ Blog</description>
+    <item>
+      <title>Demystifying the Role of a Project Management Consultant: Your Key to Unlocking Success</title>
+      <link>https://sites.google.com/view/livemcq/blog/demystifying-the-role-of-a-project-management-consultant-your-key-to-unlo</link>
+      <description>Author: MD Jihad</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/eservicebd/font@main/2400x1118-What-is-a-project-management-consultant-1024x477.png" type="image/png" />
+    </item>
+    <item>
+      <title>Understanding Automation Software: Revolutionizing Efficiency and Productivity</title>
+      <link>https://sites.google.com/view/livemcq/blog/understanding-automation-software-revolutionizing-efficiency-and-productiv</link>
+      <description>Author: MD Jihad</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/eservicebd/font@main/2400x1118-What-is-Dashboard-Reporting-1024x477.png" type="image/png" />
+    </item>
+    <item>
+      <title>Unlocking Efficiency: Mastering Expert Google Sheets Tricks</title>
+      <link>https://sites.google.com/view/livemcq/blog/unlocking-efficiency-mastering-expert-google-sheets-tricks</link>
+      <description>Author: MD Jihad</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/eservicebd/font@main/Automated-Reporting-Pillar-Page_2400x1118-1024x477.png" type="image/png" />
+    </item>
+    <item>
+      <title>Apple Acquires Canadian Startup DarwinAI: A Deep Dive</title>
+      <link>https://sites.google.com/view/livemcq/blog/apple-acquires-canadian-startup-darwinai-a-deep-dive</link>
+      <description>Author: MD Jihad</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/eservicebd/font@main/2400x1118-What-is-automation-software-1024x477.png" type="image/png" />
+    </item>
+    <item>
+      <title>8 Best Project Management Books to Elevate Your Skills</title>
+      <link>https://sites.google.com/view/livemcq/blog/8-best-project-management-books-to-elevate-your-skills</link>
+      <description>Author: MD Jihad</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/eservicebd/font@main/2400x1118-The-X-Best-Project-Management-Books-to-Read-1024x477.png" type="image/png" />
+    </item>
+    <item>
+      <title>Unleash the Power of Google Sheets with Add-ons</title>
+      <link>https://sites.google.com/view/livemcq/blog/unleash-the-power-of-google-sheets-with-add-ons</link>
+      <description>Author: MD Jihad</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/eservicebd/font@main/2400x1118-The-Best-Zendesk-Apps-for-Customer-Support-Teams-1024x477.webp" type="image/webp" />
+    </item>
+  </channel>
+</rss>
